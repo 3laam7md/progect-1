@@ -917,7 +917,7 @@ ul {
     transition :0.3s
 }
 
-.footer-i:hover i{
+.footer-i i:hover{
 background-color: #2287a0;
 }
     
