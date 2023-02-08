@@ -904,17 +904,25 @@ ul {
 }
 
 .footer-i i {
-    display: inline-block;
-    font-size: 45px;
-    background-color: #2287a0;
+     display: inline-block;
+    font-size: 30px;
+    
     width: 60px;
     height: 60px;
     border-radius: 50%;
     line-height: 60px;
     margin-top: 30px;
     color: #eefbff;
-
+    border: 1px solid #2287a0;
+    transition :0.3s
 }
+
+.footer-i:hover i{
+background-color: #2287a0;
+}
+    
+
+
 
 .footer-i a {
     text-decoration: none;
@@ -931,3 +939,5 @@ ul {
     word-spacing: 3px;
 
 }
+
+
