@@ -534,7 +534,7 @@ ul {
 .services {
     position: relative;
     height: 400px;
-    background-image: url(/image/bg-image-2.jpg);
+    background-image: url(../image/bg-image-2.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -696,7 +696,7 @@ ul {
 /* //////////////////////////////////////// 8 ////////////////////////////////////////////////// */
 .team {
     position: relative;
-    background-image: url(/image/bg-image-2.jpg );
+    background-image: url(../image/bg-image-2.jpg );
     background-attachment: fixed;
     background-size: cover;
     height: 400px;
